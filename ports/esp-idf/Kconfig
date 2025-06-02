@@ -1,0 +1,7 @@
+menu "pubsub-c"
+    config PUBSUB_NO_PREFIX
+        bool "allow naked macro and function names."
+        default n
+        help
+            "Generate naked macro and function names without a prefix."
+endmenu

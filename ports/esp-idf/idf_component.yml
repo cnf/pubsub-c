@@ -1,0 +1,10 @@
+dependencies:
+  cmake_utilities: '*'
+  idf: '>=5.0'
+description: Publish and Subscribe bus
+documentation: https://github.com/jaracil/pubsub-c
+issues: https://github.com/jaracil/pubsub-c/issues
+repository: git://://github.com/jaracil/pubsub-c.git
+repository_info:
+  path: "ports/esp-idf"
+url: https://github.com/jaracil/pubsub-c
